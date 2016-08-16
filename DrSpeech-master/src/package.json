@@ -1,0 +1,27 @@
+{
+  "name": "dr_speech",
+  "version": "1.0.0",
+  "description": "An application that helps people learn how to properly say English words.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmloveaa/DrSpeech.git"
+  },
+  "keywords": [
+    "Speech",
+    "Alexa",
+    "Skill"
+  ],
+  "author": "Mandy Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mmloveaa/DrSpeech/issues"
+  },
+  "homepage": "https://github.com/mmloveaa/DrSpeech#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}

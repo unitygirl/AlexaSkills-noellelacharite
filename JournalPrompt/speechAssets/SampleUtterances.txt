@@ -1,0 +1,17 @@
+GetNewFactIntent a prompt
+GetNewFactIntent a journal prompt
+GetNewFactIntent a journaling prompt
+GetNewFactIntent a writing prompt
+GetNewFactIntent tell me writing prompt
+GetNewFactIntent tell me a journal prompt
+GetNewFactIntent tell me what to write about today
+GetNewFactIntent tell me a journaling prompt
+GetNewFactIntent tell me today's writing prompt
+GetNewFactIntent tell me what to write
+GetNewFactIntent give me a prompt
+GetNewFactIntent give me a journal prompt
+GetNewFactIntent give me journaling prompt
+GetNewFactIntent give me today's journal prompt
+GetNewFactIntent give me some ideas
+GetNewFactIntent give me some writing ideas
+GetNewFactIntent give me what to journal
